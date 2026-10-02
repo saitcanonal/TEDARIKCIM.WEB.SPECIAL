@@ -1,0 +1,177 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 484
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 67
+    },
+    {
+      "path": "README.md",
+      "bytes": 43490
+    },
+    {
+      "path": "TEST-REPORT.md",
+      "bytes": 3793
+    },
+    {
+      "path": "package.json",
+      "bytes": 346
+    },
+    {
+      "path": "public/admin.html",
+      "bytes": 565
+    },
+    {
+      "path": "public/css/style.css",
+      "bytes": 19024
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 171
+    },
+    {
+      "path": "public/giris.html",
+      "bytes": 1093
+    },
+    {
+      "path": "public/hakkimizda.html",
+      "bytes": 1306
+    },
+    {
+      "path": "public/hesap.html",
+      "bytes": 695
+    },
+    {
+      "path": "public/index.html",
+      "bytes": 1832
+    },
+    {
+      "path": "public/js/admin.js",
+      "bytes": 26765
+    },
+    {
+      "path": "public/js/app.js",
+      "bytes": 12914
+    },
+    {
+      "path": "public/js/catalog.js",
+      "bytes": 22005
+    },
+    {
+      "path": "public/js/customer.js",
+      "bytes": 14382
+    },
+    {
+      "path": "public/js/dash.js",
+      "bytes": 10014
+    },
+    {
+      "path": "public/js/supplier.js",
+      "bytes": 22016
+    },
+    {
+      "path": "public/kayit.html",
+      "bytes": 1550
+    },
+    {
+      "path": "public/musteri.html",
+      "bytes": 597
+    },
+    {
+      "path": "public/sifre-sifirla.html",
+      "bytes": 924
+    },
+    {
+      "path": "public/sifre-unuttum.html",
+      "bytes": 923
+    },
+    {
+      "path": "public/tedarikci-paneli.html",
+      "bytes": 572
+    },
+    {
+      "path": "public/tedarikci.html",
+      "bytes": 753
+    },
+    {
+      "path": "public/tedarikciler.html",
+      "bytes": 758
+    },
+    {
+      "path": "public/urun.html",
+      "bytes": 745
+    },
+    {
+      "path": "public/urunler.html",
+      "bytes": 784
+    },
+    {
+      "path": "scripts/build.js",
+      "bytes": 2136
+    },
+    {
+      "path": "scripts/setup-demo.js",
+      "bytes": 2862
+    },
+    {
+      "path": "server/admin.js",
+      "bytes": 12761
+    },
+    {
+      "path": "server/auth.js",
+      "bytes": 4086
+    },
+    {
+      "path": "server/catalog.js",
+      "bytes": 6430
+    },
+    {
+      "path": "server/create-admin.js",
+      "bytes": 1759
+    },
+    {
+      "path": "server/data.js",
+      "bytes": 5201
+    },
+    {
+      "path": "server/index.js",
+      "bytes": 15441
+    },
+    {
+      "path": "server/mailer.js",
+      "bytes": 595
+    },
+    {
+      "path": "server/notify.js",
+      "bytes": 5688
+    },
+    {
+      "path": "server/panel.js",
+      "bytes": 20255
+    },
+    {
+      "path": "server/requests.js",
+      "bytes": 10862
+    },
+    {
+      "path": "server/search.js",
+      "bytes": 7103
+    },
+    {
+      "path": "server/store.js",
+      "bytes": 6803
+    },
+    {
+      "path": "server/uploads.js",
+      "bytes": 1624
+    },
+    {
+      "path": "server/validate.js",
+      "bytes": 858
+    }
+  ]
+}

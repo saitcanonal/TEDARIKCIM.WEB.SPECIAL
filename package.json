@@ -1,0 +1,15 @@
+{
+  "name": "tedarikcim",
+  "version": "1.0.0",
+  "description": "TEDARİKÇİM V1 responsive web platformu",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "setup:demo": "node scripts/setup-demo.js",
+    "create-admin": "node server/create-admin.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
